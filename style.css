@@ -1,0 +1,203 @@
+.navbar {
+   background-color: #b2b2b2;
+   margin: 0px;
+   height: 65px;
+   display: ;
+}
+
+.head {
+}
+
+.body{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.brand-icon {
+    margin-top: 20px;
+    position: absolute;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.brand-name {
+    display: inline-block;
+    position: relative;
+    margin-left: 35%;
+}
+.message-icon {
+    display: inline-block;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 25px;
+}
+
+.like {
+    height: 25px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+.follower {
+    display: inline-table;
+    position: absolute;
+    margin-top: px;
+    margin-left: 0px;
+}
+
+.search {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.post {
+    margin-top: 100px;
+    margin-left: 32px;
+}
+
+.reel {
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.profile {
+    margin-top: 25px;
+    margin-left: 33px;
+}
+
+.more {
+    margin-top: 20px;
+    margin-left: 33px;
+}
+
+.help {
+    margin-top: 200px;
+    margin-left: 35px;
+    padding-bottom: 0px;
+}
+
+.help-icon {
+    margin-left: 31px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.profile-1 {
+    margin-left: 120px;
+    margin-top: 0px;
+    padding-top: 0px ;
+    position: absolute;
+    padding-top: 0%;
+}
+
+.profile-1-name {
+    position: absolute;
+    margin-left: 280px;
+    text-decoration: solid;
+}
+
+.verified {
+    height: 20px;
+    margin-left: 360px;
+    margin-top: 22px;
+    display: inline-block;
+}
+
+#btn-1 {
+
+font-family: Roboto, sans-serif;
+font-size: 14px;
+font-weight: 600;
+color: #000000;
+background-color: #ccc6c6;
+padding: 5px 30px;
+border: 2px solid #ccc6c6;
+border-radius: 10px;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+margin-left: 20px;
+display: inline-block;
+position: relative;
+}
+
+
+#btn-2{
+
+font-family: Roboto, sans-serif;
+font-weight: 600;
+font-size: 14px;
+color: black;
+background-color: #ccc6c6;
+padding: 5px 30px;
+border: 2px solid #ccc6c6;
+border-radius: 10px;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+margin-left: 23px;
+display: inline-block;
+position: relative;
+}
+
+.add-friend {
+    margin-left: 25px;
+}
+
+.option {
+    margin-left: 26px;
+}
+
+#posts-1 {
+    margin-left: 300px;
+}
+
+.details {
+    display: flex;
+    margin-top: 20px;
+    text-decoration: none;
+    touch-action: manipulation;
+    outline: none;
+}
+
+#followers-1 {
+    margin-left: 45px;
+}
+
+#following-1 {
+    margin-left: 45px;
+}
+
+.name {
+    margin-left: 300px;
+    margin-bottom: 0px;
+}
+
+.bio {
+    margin-left: 300px;
+}
+
+.thread-btn{
+
+font-family: Roboto, sans-serif;
+font-weight: 900;
+font-size: 13px;
+color: #fff;
+background-color: #cacfd4;
+padding: 0px 10px;
+border: solid #c5d0db 2px;
+border-radius: 50px;
+align-items: center;
+margin-left: 300px;
+margin-top: 0px;
+}
+
+.line-1 {
+    display: flex;
+}
